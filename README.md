@@ -1,34 +1,5 @@
-<div align="center">
-
 # 🛡️ Llama Guard 3.2 Vision 11B
-### Advanced AI Safety & ### Installation
-
-```bash
-# Clone the repository
-git clone## 📈 Performance Metrics
-
-<div align="center">
-
-![Performance Visualizatio```bash
-# 1. Fork the repository
-# 2. Create your feature branch
-git checkout -b feature/amazing-feature
-
-# 3. Commit your changes
-git commit -m 'Add some amazing feature'
-
-# 4. Push to the branch
-git push origin feature/amazing-feature
-
-# 5. Open a Pull Request
-```ickchart.io/chart?c={type:'doughnut',data:{labels:['Accuracy: 94.7%','Precision: 93.1%','Recall: 95.3%','F1-Score: 94.2%'],datasets:[{data:[94.7,93.1,95.3,94.2],backgroundColor:['#FF6B35','#1E88E5','#4CAF50','#FF9800'],borderWidth:3,borderColor:'#fff'}]},options:{responsive:true,plugins:{title:{display:true,text:'Model Performance Metrics',font:{size:20}},legend:{position:'bottom',labels:{font:{size:14}}}}}})
-
-</div>//github.com/Osamaali313/Llama_Guard_3.2_Vision_11B.git
-cd Llama_Guard_3.2_Vision_11B
-
-# Install dependencies
-pip install torch transformers accelerate pillow requests
-```deration for Vision-Language Models
+### Advanced AI Safety & Content Moderation for Vision-Language Models
 
 <p align="center">
   <img src="https://img.shields.io/badge/Model-Llama%20Guard%203.2%20Vision-FF6B35?style=for-the-badge&logo=meta&logoColor=white" alt="Model Badge"/>
@@ -46,8 +17,6 @@ pip install torch transformers accelerate pillow requests
 ---
 
 *🚀 Harness the power of Meta's latest Llama Guard 3.2 Vision model for robust content safety and moderation across text and images*
-
-</div>
 
 ## 🌟 Features
 
@@ -107,14 +76,14 @@ graph TD
 
 ### Installation
 
-`ash
+```bash
 # Clone the repository
 git clone https://github.com/Osamaali313/Llama_Guard_3.2_Vision_11B.git
 cd Llama_Guard_3.2_Vision_11B
 
 # Install dependencies
 pip install torch transformers accelerate pillow requests
-`
+```
 
 ### Basic Usage
 
@@ -154,13 +123,9 @@ text_prompt = "Is this image safe for general audiences?"
 
 </div>
 
-## �� Performance Metrics
+## 📈 Performance Metrics
 
 <div align="center">
-
-![Performance Chart](https://via.placeholder.com/800x400/FF6B35/FFFFFF?text=Performance+Metrics+Chart)
-
-</div>
 
 | Metric | Score | Industry Benchmark |
 |--------|-------|-------------------|
@@ -168,6 +133,8 @@ text_prompt = "Is this image safe for general audiences?"
 | **Precision** | 93.1% | 87.8% |
 | **Recall** | 95.3% | 90.1% |
 | **F1-Score** | 94.2% | 88.9% |
+
+</div>
 
 ## 🔧 Technical Specifications
 
@@ -217,13 +184,9 @@ Try out the model with our interactive Jupyter notebook:
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
-<div align="center">
-
 ### 💡 How to Contribute
 
-</div>
-
-`ash
+```bash
 # 1. Fork the repository
 # 2. Create your feature branch
 git checkout -b feature/amazing-feature
@@ -235,7 +198,7 @@ git commit -m 'Add some amazing feature'
 git push origin feature/amazing-feature
 
 # 5. Open a Pull Request
-`
+```
 
 ## 📄 License
 
