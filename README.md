@@ -111,7 +111,6 @@ text_prompt = "Is this image safe for general audiences?"
 
 ## 🎯 Use Cases
 
-<div align="center">
 
 | Use Case | Description | Benefits |
 |----------|-------------|----------|
@@ -124,8 +123,6 @@ text_prompt = "Is this image safe for general audiences?"
 </div>
 
 ## 📈 Performance Metrics
-
-<div align="center">
 
 | Metric | Score | Industry Benchmark |
 |--------|-------|-------------------|
